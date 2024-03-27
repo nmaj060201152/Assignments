@@ -1,0 +1,9 @@
+var a:number = 2;
+var b:number = 6;
+var c:number = 10;
+var d:number = 4;
+var e:number = 16;
+console.log(a+" + "+b+" = "+(a+b)+"\n")
+console.log(c+" - "+a+" = "+(c-a)+"\n")
+console.log(d+" x "+a+" = "+(d*a)+"\n")
+console.log(e+" / "+a+" = "+e/a)
